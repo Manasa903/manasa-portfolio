@@ -17,7 +17,7 @@ export default function Education() {
       institution: "Lakireddy Bali Reddy College Of Engineering",
       degree: "Bachelor of Technology in Information Technology",
       period: "August 2022 - June 2026",
-      grade: "CGPA: 9.65",
+      grade: "CGPA: 9.65 (At Present)",
       icon: School,
     },
     {
